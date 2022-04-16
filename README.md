@@ -6,7 +6,7 @@ by Frank Crossley, Lauren Holzman, Nathaniel Ming Ki, Erick Villanueva
 ##### [Immersive Reality Map: ](https://link-url-here.org)
 -image-
 ##### [Historic Map: ](https://erickv112.github.io/california-wildfires/)
--image-
+![History of California Wildfires](historic-map.png)
 
 ##### [Predictive Map: ](https://link-url-here.org)
 -image-
